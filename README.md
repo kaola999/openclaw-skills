@@ -87,6 +87,7 @@ MIT
 
 If you find these skills useful, consider supporting the development:
 
+[![爱发电](https://img.shields.io/badge/爱发电-支持作者-ff6b6b?style=flat)](https://afdian.com/a/kaola99)
 [![Buy Me a Coffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=flat&logo=buy-me-a-coffee&logoColor=black)]()
 
 ## Contributing
